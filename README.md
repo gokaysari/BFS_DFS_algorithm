@@ -1,5 +1,5 @@
 # BFS_DFS_algorithm
-Breadth and depth first search by using CPP
+Breadth first and depth first search by using CPP
 
 DFS
 
